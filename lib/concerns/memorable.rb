@@ -1,4 +1,4 @@
- 
+
 module Memorable
 =begin
   def self.reset_all
